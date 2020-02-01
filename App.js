@@ -8,16 +8,10 @@
 
 import React, { useState } from 'react';
 import {
-	Text,
 	StyleSheet,
 	View,
-	TextInput,
 	Button,
-	ScrollView,
 	FlatList,
-  ListView,
-  Image,
-  Modal,
 } from 'react-native';
 
 import GoalItem from './components/GoalItem';
